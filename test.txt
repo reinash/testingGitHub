@@ -19,3 +19,5 @@ NOW CLONE YOUR PROJECT IN GITHUB.COM USING THIS COMMAND
 github username and password
 -type git pull to download latest revisions from github! yeah!
 -lets add some shit to see if i can pull this mothofoko haha!
+
+-GITKRAKEN TESTING MOFO!
