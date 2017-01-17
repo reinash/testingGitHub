@@ -18,4 +18,4 @@ NOW CLONE YOUR PROJECT IN GITHUB.COM USING THIS COMMAND
 -you might need to login everytime you add files to git after performing the step above using your 
 github username and password
 
-
+-lets add some shit to see if i can pull this mothofoko haha!
