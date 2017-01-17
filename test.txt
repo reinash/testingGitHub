@@ -15,7 +15,7 @@ NOW CLONE YOUR PROJECT IN GITHUB.COM USING THIS COMMAND
 -type git add test.txt (to SETUP ADDING IT TO GITHUB)
 -type git commit -m "your message here to other devs what you changed haha!"
 -type  git push -u origin master (TO FINALLY INSERT YOUR FILE IN GITHUB.COM)
--you might need to login if first time use of git after performing the step above using your 
+-you might need to login everytime you add files to git after performing the step above using your 
 github username and password
 
 
