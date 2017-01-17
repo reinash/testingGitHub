@@ -1,1 +1,21 @@
-matthiandovarrowverdy!
+-install git
+-register to github
+-cd to your desired folder
+-type dir to check the files inside your folder
+
+LOGIN USING THIS COMMANDS
+-git config --global user.name "reinash"
+-git config --global user.email johncedriccarandang@gmail.com
+
+NOW CLONE YOUR PROJECT IN GITHUB.COM USING THIS COMMAND
+- git clone https://github.com/reinash/testingGitHub.git (this is my link of folder in github)
+
+-now try to add some files to your folder you created in github in your folder on your pc
+-type dir to check if it is there, then
+-type git add test.txt (to SETUP ADDING IT TO GITHUB)
+-type git commit -m "your message here to other devs what you changed haha!"
+-type  git push -u origin master (TO FINALLY INSERT YOUR FILE IN GITHUB.COM)
+-you might need to login if first time use of git after performing the step above using your 
+github username and password
+
+
