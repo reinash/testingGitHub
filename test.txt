@@ -26,3 +26,5 @@ github username and password
 -lets try another pull on gitkraken!
 
 -lets try branching!
+
+"this is a sample change requested by the member who saw your pull request!"
