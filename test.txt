@@ -26,5 +26,18 @@ github username and password
 -lets try another pull on gitkraken!
 
 -lets try branching!
+-you do this by 1. right clickproject then create a branch here
+		2. now do your changes, once done, push it.
+		3. it will ask you to automatically create a branch for you at github.
+		4. go to github and you will see you have now 2 branches.
+		5. your master(original) branch will not have the changes you have on the branch
+		   you created.
+		6. if you think your done editing because you already pushed, do a pull request
+		   now by merging the branch you made with the master branch at gitkraken.
+		7. now check your pull request on github, and there your teammates can comment
+		   on your request and ask for revisions, if you have revisions, just push it again
+		   at gitkraken and it will auto add at github in the branch you created
+		   but once satisfied, you can now click the merge pull request and also delete 
+		   the branch on github if you want.
 
 "this is a sample change requested by the member who saw your pull request!"
