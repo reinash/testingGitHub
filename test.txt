@@ -10,6 +10,7 @@ LOGIN USING THIS COMMANDS
 NOW CLONE YOUR PROJECT IN GITHUB.COM USING THIS COMMAND
 - git clone https://github.com/reinash/testingGitHub.git (this is my link of folder in github)
 
+-you can directly open your files from commandline using start filename.txt
 -now try to add some files to your folder you created in github in your folder on your pc
 -type dir to check if it is there, then
 -type git add test.txt (to SETUP ADDING IT TO GITHUB)
